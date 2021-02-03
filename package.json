@@ -1,7 +1,7 @@
 {
-  "name": "@dolgit/pubsub",
+  "name": "@dolgit/pubsub-simple",
   "version": "0.1.1-development",
-  "description": "Basic subscription service",
+  "description": "Very basic subscription service",
   "browser": "lib/index.js",
   "main": "lib/index.js",
   "module": "es/index.js",
@@ -22,7 +22,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/DolGit/pubsub.git"
+    "url": "https://github.com/DolGit/pubsub-simple.git"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
