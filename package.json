@@ -1,0 +1,32 @@
+{
+  "name": "@dolgit/pubsub",
+  "version": "0.1.1-development",
+  "description": "Basic subscription service",
+  "browser": "lib/index.js",
+  "main": "lib/index.js",
+  "module": "es/index.js",
+  "files": [
+    "es",
+    "lib",
+    "umd"
+  ],
+  "scripts": {
+    "build": "nwb build-react-component"
+  },
+  "peerDependencies": {},
+  "devDependencies": {
+    "@dolgit/secure-package-builder": "0.1.1-development"
+  },
+  "author": "Alex Dollery (DolNpm/DolGit)",
+  "homepage": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DolGit/pubsub.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "dependencies": {
+  }
+}
